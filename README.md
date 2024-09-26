@@ -2,7 +2,7 @@
 
 Microbe-Microbe Interaction Genome-Scale Metabolic Model (mmGEM)
 
-# Repository Contents
+### Repository Contents
 1) mmGEM.sbml:
     This file contains the genome-scale metabolic model of a microbial community consisting of sulfate-reducing bacteria (SRB), methanogens (MET), and sulfide-oxidizing bacteria (SOB) in a microbial fuel cell (MFC) system.
 
